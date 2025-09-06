@@ -20,4 +20,4 @@ Open `index.html` in your browser.
 ## 🌐 Deploy on GitHub Pages
 1. Push repo to GitHub.
 2. Settings → Pages → Source: `main` (root).
-3. Access at: https://<grandzangoule>.github.io/oscar-eta-portfolio/
+3. Access at: https://<GrandZangoule>.github.io/oscar-eta-portfolio/
